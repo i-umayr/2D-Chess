@@ -1,2 +1,2 @@
 # Chess2D
-Test your skills against each other in a logical game of chess
+A 2D chess game made in Java OOP
